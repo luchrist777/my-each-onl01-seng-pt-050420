@@ -1,4 +1,4 @@
-def my_each(array)
+def my_each(arg)
     i = 0
     while i < self.length
       yield(self[i])
